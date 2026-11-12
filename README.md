@@ -12,5 +12,5 @@ Some info about me:
 - 💬 Ask me about anything, I'll be honest if I don't know the anser
 - 📫 How to reach me: drop an email at wahl at zhaw dot ch.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was raised in Germany so there are only serious facts.
+- ⚡ Fun fact: I was raised in Germany so there are no fun facts, but only serious facts.
 
